@@ -58,6 +58,6 @@ Este projeto consiste em um aplicativo cliente e servidor implementados em Pytho
 - [Creating a Simple Socket Server and Client in Python](https://youtu.be/sUzM-vIC-s4?si=-02PqvgNB51FoU3H)
 
 ## Autores
-- [Gabriel Vasconcelos](https://github.com/Gabriel-Vasconcelos)
-- [João Victor](https://github.com/joaoVictorBAlves)
-- [Yanna Torres](https://github.com/yanna-torres)
+- [Gabriel Vasconcelos :man_technologist:](https://github.com/Gabriel-Vasconcelos)
+- [João Victor :man_technologist:](https://github.com/joaoVictorBAlves)
+- [Yanna Torres :sparkles:](https://github.com/yanna-torres)
