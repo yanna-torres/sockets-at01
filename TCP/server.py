@@ -1,5 +1,5 @@
 import socket
-from convert_currency import convert_currency
+from utils import convert_currency
 
 HOST = '127.0.0.1'
 PORT = 65432
@@ -22,9 +22,6 @@ def main():
                     conn.sendall(str(result).encode())
             finally:
                 conn.close()
-
-
-
 
 if __name__ == '__main__':
     main()

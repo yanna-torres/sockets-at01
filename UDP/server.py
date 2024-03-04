@@ -1,6 +1,6 @@
 import socket
 
-from convert_currency import convert_currency
+from utils import convert_currency
 
 HOST = '127.0.0.2'
 PORT = 65433
