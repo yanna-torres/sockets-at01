@@ -1,0 +1,2 @@
+- [Tutorial 1](https://youtu.be/sUzM-vIC-s4?si=mFKFwb7Ptph-e5Yn)
+- [Tutorial 2](https://realpython.com/python-sockets/)
